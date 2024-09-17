@@ -13,4 +13,4 @@ Os técnicos poderão acessar o seu sistema para checar as demandas que serão a
 
 Essa foi a Descrição entregue pelo Professor orlandosaraivajr.
 
-Você pode conferir o Resultado no Arquivo "Avaliação" Existente dentro deste Repositório.
+Você pode conferir o Resultado no Arquivo "Avaliação" Existente dentro deste Repositório, iniciando pelo arquivo "login.php".
