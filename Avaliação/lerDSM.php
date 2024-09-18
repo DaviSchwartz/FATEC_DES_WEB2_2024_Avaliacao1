@@ -1,5 +1,5 @@
 <?php 
-
+require('cabeca.php');
 $dsm_demandas = 'DSM.txt';
 
 $leitor_dsm = file_get_contents($dsm_demandas);
