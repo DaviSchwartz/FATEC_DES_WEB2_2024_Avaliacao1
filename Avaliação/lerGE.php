@@ -1,5 +1,5 @@
 <?php 
-
+require('cabeca.php');
 $ge_demandas = 'GE.txt';
 
 $leitor_ge = file_get_contents($ge_demandas);
