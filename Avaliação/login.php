@@ -44,6 +44,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             </div>
             <div class="form-group">
                 <input type="submit" class="btn btn-success" value="Acessar">
+                <a href="lerTUDO.php" class="btn btn-primary">Vizualizar todas as Solicitações</a> 
+                <span class="help-block"></span>
             </div>
         </form>
     </div>    
